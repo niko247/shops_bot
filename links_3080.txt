@@ -1,4 +1,4 @@
-https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/procesory/procesor-amd-ryzen-9-5900x-12-core-3-7ghz-am4-zen3
+#https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/procesory/procesor-amd-ryzen-9-5900x-12-core-3-7ghz-am4-zen3
 https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/karty-graficzne/karta-graficzna-msi-geforce-rtx-3080-ventus-3x-10g-oc
 https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/karty-graficzne/karta-graficzna-gigabyte-geforce-rtx-3080-gaming-oc-10g
 https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/karty-graficzne/karta-graficzna-msi-geforce-rtx-3080-gaming-x-trio-10g
@@ -13,7 +13,7 @@ https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/karty-graf
 https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/karty-graficzne/karta-graficzna-palit-geforce-rtx-3080-gamerock-10gb-gddr6x
 https://www.mediaexpert.pl/komputery-i-tablety/podzespoly-komputerowe/karty-graficzne/karta-graficzna-pny-geforce-rtx-3080-epic-x-rgb-tf-xlr8-10gb-gaming-revel
 https://www.mediaexpert.pl/gaming/playstation-5/konsole-ps5/konsola-sony-ps5
-https://www.x-kom.pl/p/597431-procesor-amd-ryzen-9-amd-ryzen-9-5900x.html
+#https://www.x-kom.pl/p/597431-procesor-amd-ryzen-9-amd-ryzen-9-5900x.html
 https://www.x-kom.pl/p/590075-karta-graficzna-nvidia-asus-geforce-rtx-3080-tuf-gaming-10gb-gddr6x.html
 https://www.x-kom.pl/p/589756-karta-graficzna-nvidia-gigabyte-geforce-rtx-3080-gaming-oc-10gb-gddr6x.html
 https://www.x-kom.pl/p/589740-karta-graficzna-nvidia-msi-geforce-rtx-3080-gaming-x-trio-10gb-gddr6x.html
@@ -80,6 +80,7 @@ https://proline.pl/msi-geforce-rtx-3080-suprim-x-10gb-gddr6x-p7142510
 https://www.notebooksbilliger.de/nvidia+geforce+rtx+3080+founders+edition+714792
 https://www.notebooksbilliger.de/nvidia+geforce+rtx+3080+ti+founders+edition+fe+720777
 https://www.notebooksbilliger.de/nvidia+geforce+rtx+3090+rtx+founders+edition+asd+722486
+https://www.notebooksbilliger.de/nvidia+geforce+rtx+3090+founders+edition+asd+722486
 https://www.notebooksbilliger.de/pc+hardware/grafikkarten/nvidia/geforce+rtx+3080+ti+nvidia/msi+geforce+rtx+3080+ti+suprim+x+12gb+gddr6x+grafikkarte+719682
 https://www.x-kom.pl/p/658147-karta-graficzna-nvidia-gigabyte-geforce-rtx-3080-ti-vision-oc-12gb-gddr6x.html
 https://www.x-kom.pl/p/658152-karta-graficzna-nvidia-gigabyte-geforce-rtx-3080-ti-eagle-12gb-gddr6x.html
@@ -152,6 +153,18 @@ https://foxkomputer.pl/pl/p/Karta-graficzna-MSI-RTX-3080-Ti-GAMING-X-TRIO-12GB-G
 https://foxkomputer.pl/pl/p/Karta-graficzna-MSI-RTX-3080-Ti-Suprim-X-12GB-GDDR6X/17107
 https://foxkomputer.pl/pl/p/Karta-graficzna-Palit-RTX-3080-Ti-GameRock-12GB-GDDR6X/17105
 https://foxkomputer.pl/pl/p/Karta-graficzna-Palit-RTX-3080-Ti-GamingPro-12GB-GDDR6X/17106
+https://foxkomputer.pl/pl/p/Karta-graficzna-Zotac-RTX-3080-AMP-Holo-LHR-10GB-GDDR6X/17881
+https://foxkomputer.pl/pl/p/Karta-graficzna-Gainward-RTX-3080-Ti-Phoenix-12GB-GDDR6X/17104
+https://foxkomputer.pl/pl/p/Karta-graficzna-Gigabyte-RTX-3080-AORUS-MASTER-R3.0-10G-GDDR6X-/14328
+https://foxkomputer.pl/pl/p/Karta-graficzna-Gigabyte-RTX-3080-VISION-OC-10G-GDDR6X-R2.0/17494
+https://foxkomputer.pl/pl/p/Karta-graficzna-Gigabyte-RTX-3080-Ti-AORUS-MASTER-12GB-GDDR6X/17205
+https://foxkomputer.pl/pl/p/Karta-graficzna-Zotac-RTX-3080-AMP-Holo-LHR-10GB-GDDR6X/17881
+https://foxkomputer.pl/pl/p/Karta-graficzna-Gigabyte-RTX-3080-GAMING-OC-10GB-GDDR6X-rev-1.0/14174
+https://foxkomputer.pl/pl/p/ZOTAC-Karta-graficzna-RTX-3080Ti-Trinity-12GB-GDDR6X-384bit-3DPHDMI/17413
+https://foxkomputer.pl/pl/p/ZOTAC-Karta-graficzna-RTX-3080Ti-AMP-Holo-12GB-GDDR6X-384bit-3DPHDMI/17411
+https://foxkomputer.pl/pl/p/Palit-Karta-graficzna-RTX-3080Ti-GameRock-12GB-GDDR6X-384bit-3DPHDMI/17461
+https://foxkomputer.pl/pl/p/Karta-graficzna-Gainward-RTX-3080-Ti-Phoenix-12GB-GDDR6X/17104
+https://foxkomputer.pl/pl/p/Karta-graficzna-Gigabyte-RTX-3080-Ti-EAGLE-12GB-GDDR6X/17101
 https://www.euro.com.pl/karty-graficzne/gigabyte-karta-gragiczna-gigabyte-rtx-3080-eagle.bhtml
 https://www.euro.com.pl/karty-graficzne/gigabyte-karta-graf-giga-rtx-3080-gaming-12g.bhtml
 https://www.euro.com.pl/karty-graficzne/palit-karta-graf-palit-rtx-3080ti-gp-12g-gd6x.bhtml
